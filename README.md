@@ -15,4 +15,9 @@ This is a personal project designing an RTC Watch and implementing it on DE-10 L
 - When the **set** is pressed, the watch will change mode from clock to adjusting parameters
 - The order of the parameters are sec -> minute -> hour -> day -> month -> year -> clock
 - In adjusting mode, the **incr** button is used to increase value of adjusted objects. The adjusted object is blinked, other objects don't change their displayed value
+
+# Functional Description
+## 1. Interface
+<img width="1000" height="334" alt="image" src="https://github.com/user-attachments/assets/20de9360-069b-4042-97a7-c246c2415ed9" />
+
   
