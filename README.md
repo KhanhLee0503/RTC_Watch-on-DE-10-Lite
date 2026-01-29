@@ -3,10 +3,10 @@ This is a personal project designing an RTC Watch and implementing it on DE-10 L
 
 # Product Requirement
 ## 1. Overview
-<img width="1041" height="375" alt="image" src="https://github.com/user-attachments/assets/e0ede8a6-a6d3-4a48-a28d-5cd22ffd244c" />
+<img width="1000" height="375" alt="image" src="https://github.com/user-attachments/assets/e0ede8a6-a6d3-4a48-a28d-5cd22ffd244c" />
 
 ## 2. I/O Pins
-<img width="884" height="390" alt="image" src="https://github.com/user-attachments/assets/c3fbd64c-60fc-4f8f-ad69-cd328f412596" />
+<img width="1000" height="390" alt="image" src="https://github.com/user-attachments/assets/c3fbd64c-60fc-4f8f-ad69-cd328f412596" />
 
 ## 3. Features
 1. Able to display hour, minute, second, day, month, year
